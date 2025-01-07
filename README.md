@@ -3,7 +3,6 @@
 ## 🙋‍♂️ About me :
  -  Pronouns: **He/Him**😊
  -  A strong Quality Assurance professional passionate about delivering high-quality software.
- -  I am interested in learning ML and AI and would 💖 to grow my knowledge in these Technologies.
 
 ## 🛠 &nbsp;Languages and Tools
 
